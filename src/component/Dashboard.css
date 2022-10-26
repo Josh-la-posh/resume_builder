@@ -1,0 +1,34 @@
+.dashboard {
+    background-color: rgb(159, 159, 240);
+    padding: 4rem 0;
+}
+
+.react-tabs {
+    padding: 2rem;
+    margin: 2rem 0;
+    background: #eee;
+}
+
+.react-tabs .row {
+    background: #fff;
+    padding: 1rem 0;
+}
+
+.side-bar {
+}
+
+#tab-list {
+    list-style: none;
+    border: 1px solid #aaa;
+    padding: 0;
+}
+
+#tab-list li {
+    background-color: #ddd;
+    padding: 1rem;
+    border-bottom: 1px solid #aaa;
+}
+
+#tab-list .react-tabs__tab--selected {
+    background-color: #fff;
+}
